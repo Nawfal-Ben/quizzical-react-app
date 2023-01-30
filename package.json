@@ -1,7 +1,7 @@
 {
-  "homepage": "http://Nawfal-Ben.github.io/quizzical-react-app",
   "name": "quizzical-app",
   "version": "0.1.0",
+  "homepage": "https://Nawfal-Ben.github.io/quizzical-react-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
